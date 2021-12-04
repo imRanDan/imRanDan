@@ -1,6 +1,6 @@
 Hey there, Danyal here.
 
-I am a self-taught developer with a strong interest in the front-end sector of development.
+I am a self-taught developer who has a strong interest in design and technology. The front-end sector of development interests me and I am intent on pursuing a career in this field!
 .
 - 👀 I’m interested in learning how to become a Front-End Developer. Long-term fullstack!
 - 🌱 I’m currently learning Javascript and Frameworks!
