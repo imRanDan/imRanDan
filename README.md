@@ -1,7 +1,7 @@
 Hey there, Danyal here.
 
 I am a self-taught developer who has a strong passion for design, tech, photography, and artificial intelligence!
-.
+
 - 🔭 Software Engineer on my journey to become a full stack developer
 - 👀 I’m interested in connecting with other developers and am seeking employment.
 - 🌱 I’m currently learning about Javascript, JQuery and Frameworks!
