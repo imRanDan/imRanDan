@@ -10,7 +10,7 @@ I am a self-taught developer who has a strong passion for design, tech, photogra
 - 🤔 I’m looking to connect with fellow creatives and developers!
 - 💬 You can ask me about HTML and CSS
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy bodybuilding, anime, reading, and gaming in my free-time!
+- ⚡ Fun fact: I enjoy fitness, anime, reading, photography, and gaming in my free-time!
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=imRanDan&&show_icons=true&title_color=ffffff&icon_color=eae8e8&text_color=d32124&bg_color=151515">
