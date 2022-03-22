@@ -2,7 +2,7 @@ Hey there, Danyal here.
 
 I am a self-taught developer who has a strong passion for design, tech, photography, and artificial intelligence!
 
-- 🔭 I am a software developer who does fullstack but likes front-end more.
+- 🔭 I am a software developer who works with fullstack but specializes with front-end tech/languages!
 - 👀 I’m interested in connecting with other developers to collaborate and network.
 - 🌱 I’m currently learning about Javascript, JQuery and Frameworks!
 - 💞️ I’m looking to have a coffee chat with anyone in tech! 
