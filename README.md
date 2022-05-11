@@ -1,15 +1,22 @@
-Hey there, Danyal here.
+<h1 align="center">Hi 👋, I'm Danyal</h1>
+<h3 align="center">I am a Full Stack Web Developer</h3>
 
-I am a self-taught dev with a passion for design, tech, photography, and artificial intelligence!
+- 🌱 I’m currently learning **JavaScript and API's**
 
-- 🔭 I am a Full Stack Web Developer.
-- 👀 I’m interested in connecting with other developers to collaborate and network.
-- 🌱 I’m currently learning about API's and backend!
-- 💞️ I’m looking to have a coffee chat with anyone in tech! 
-- 📫 How to reach me: dan.imran97@gmail.com | Discord: TheRanDan#3709
-- 💬 You can ask me about how I got started in teaching myself how to code!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy going to the gym, hikes, anime, photography, and the occasional video game in my free time.
+- 💬 Ask me about **html5, css3, and JavaScript!**
 
+- 📫 How to reach me **dan.imran97@gmail.com**
 
-<img src="https://github-readme-stats.vercel.app/api?username=imRanDan&&show_icons=true&title_color=ffffff&icon_color=eae8e8&text_color=d32124&bg_color=151515">
+- ⚡ Fun fact **When I am not at my computer I enjoy working out, going on hikes, spending time with my dog, and visiting cafes.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/therandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therandan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danyalimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danyalimran" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrandan&show_icons=true&locale=en" alt="imrandan" /></p>
+
