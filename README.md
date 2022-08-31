@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danyal</h1>
 <h3 align="center">I am a Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript and API's**
+- 🌱 I’m currently learning **Node modules and back-end**
 
 - 💬 Ask me about **html5, css3, and JavaScript!**
 
