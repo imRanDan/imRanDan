@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danyal</h1>
-<h3 align="center">I am a Full Stack Web Developer</h3>
+<h3 align="center">I am a Software Developer</h3>
 
 - 🌱 I’m currently learning **Node modules and back-end**
 
