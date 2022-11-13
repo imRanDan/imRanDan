@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **html5, css3, and JavaScript!**
 
-- 📫 How to reach me **dan.imran97@gmail.com**
+- 📫 How to reach me **imtherandan@gmail.com**
 
 - ⚡ Fun fact **When I am not at my computer I enjoy working out, going on hikes, spending time with my dog, and visiting cafes.**
 
