@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **imtherandan@gmail.com**
 
-- ⚡ Fun fact **When I am not at my computer I enjoy working out, going on hikes, spending time with my dog, and visiting cafes.**
+- ⚡ Fun fact **When I am not at my computer I enjoy working out, going on hikes, learning guitar, spend time with my dog, and visiting cafes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
