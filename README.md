@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danyal</h1>
 <h3 align="center">I am a Software Developer</h3>
 
-- 🌱 I’m currently learning **Algorithms and coding problems**
+- 🌱 I’m currently learning **Algorithms & reviewing SQL**
 
 - 💬 Ask me about **JavaScript and/or Front-end/Back-end related tech to JS!**
 
