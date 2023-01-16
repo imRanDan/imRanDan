@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danyal</h1>
 <h3 align="center">I am a Software Developer</h3>
 
-- 🌱 I’m currently learning **Node modules and back-end**
+- 🌱 I’m currently learning **Algorithms and coding problems**
 
-- 💬 Ask me about **html5, css3, and JavaScript!**
+- 💬 Ask me about **JavaScript and/or Front-end/Back-end related tech to JS!**
 
 - 📫 How to reach me **imtherandan@gmail.com**
 
