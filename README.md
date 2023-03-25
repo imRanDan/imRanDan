@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Danyal
 #### Full-Stack Web Developer
-I am based out of Hamilton, Ontario, Canada 🇨🇦. I specialize in building web applications and websites. 
+I am based out of Hamilton, Ontario, Canada 🇨🇦. I specialize in building frontend, backend, and/or full-stack web applications and websites. 
 
 
 
