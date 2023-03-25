@@ -1,19 +1,14 @@
-<h1 align="center">Hi 👋, I'm Danyal</h1>
-<h3 align="center">I am a Software Developer</h3>
+### Hi there 👋, my name is Danyal
+#### Full-Stack Web Developer
+I am based out of Hamilton, Ontario, Canada 🇨🇦. I specialize in building web applications and websites. 
 
-- 🌱 I’m currently learning **Algorithms & SQL**
 
-- 💬 Ask me about **JavaScript and/or Front-end/Back-end related tech to JS!**
 
-- 📫 How to reach me **imtherandan@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imRanDan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/danyalimran/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://danyalimran.com/)  
 
-- ⚡ Fun fact **When I am not at my computer I enjoy working out, going on hikes, learning guitar, spending time with my dog, and visiting cafes.**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imRanDan&show_icons=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/therandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therandan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/danyalimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danyalimran" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
