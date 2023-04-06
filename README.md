@@ -3,7 +3,7 @@
 
 - 💻 I'm currently working on a full-stack task-tracker app!
 
-- 🌱 I’m currently reviewing **Redux**
+- 🌱 I’m learning more about **Redux**
 
 - 💬 Ask me about **The MERN stack and/or JavaScript**
 
