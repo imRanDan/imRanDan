@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Danyal</h1>
 <h3 align="center">I am a Full Stack Web Developer</h3>
 
+- 💻 I'm currently working on a full-stack task-tracker app!
+
 - 🌱 I’m currently reviewing **Redux**
 
 - 💬 Ask me about **The MERN stack and/or JavaScript**
