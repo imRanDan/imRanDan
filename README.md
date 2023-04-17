@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **finding a job** and **general mentorship**
 
-- 💬 Ask me about **The MERN stack and/or JavaScript**
+- 💬 Ask me about **The MERN stack, HTML/CSS, and JavaScript!**
 
 - 📫 How to reach me **imtherandan@gmail.com**
 
