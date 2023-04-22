@@ -5,8 +5,6 @@
 
 - 🌱 I’m learning more about **Redux**
 
-- 🤝 I’m looking for help with **finding work** and **general mentorship**
-
 - 💬 Ask me about **The MERN stack, HTML/CSS, and JavaScript!**
 
 - 📫 How to reach me **imtherandan@gmail.com**
