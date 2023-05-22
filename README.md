@@ -3,7 +3,7 @@
 
 - 💻 I'm currently working on a full-stack task-tracker app & client work!
 
-- 🌱 I’m learning more about **Redux**
+- 🌱 I’m learning more about **Redux** and **TypeScript**
 
 - 💬 Ask me about **The MERN stack, HTML/CSS, and JavaScript!**
 
