@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danyal</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 💻 I'm currently refreshing my frontend and backend skills on Scrimba!
+- 💻 I'm currently working on personal projects
 
-- 🌱 I’m learning more about **TypeScript**
+- 🌱 I’m learning more about **TypeScript and TailwindCSS**
 
 - 💬 Ask me about **The MERN stack, HTML/CSS, and JavaScript!**
 
