@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danyal</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 💻 I'm currently working on personal projects and looking actively for new roles!
+- 💻 I'm currently working on personal projects and actively looking for new roles!
 
 - 🌱 I’m learning more about **TypeScript and TailwindCSS**
 
