@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **The MERN stack, HTML/CSS, and JavaScript!**
 
-- 📫 How to reach me **imtherandan@gmail.com**
+- 📫 How to reach me **dan.imran97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
