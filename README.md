@@ -3,7 +3,7 @@
 
 - 💻 I'm currently working on personal projects and actively looking for new roles!
 
-- 🌱 I’m learning more about **Firebase and TypeScript**
+- 🌱 I’m learning more about **NextJS and TypeScript**
 
 - 💬 Ask me about **The MERN stack and JavaScript!**
 
