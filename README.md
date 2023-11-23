@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danyal</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">I am a Software Developer</h3>
 
 - 💻 I'm currently working on personal projects and actively looking for new roles!
 
-- 🌱 I’m learning more about **Firebase**
+- 🌱 I’m learning more about **Firebase and TypeScript**
 
-- 💬 Ask me about **The MERN stack, HTML/CSS, and JavaScript!**
+- 💬 Ask me about **The MERN stack and JavaScript!**
 
 - 📫 How to reach me **dan.imran97@gmail.com**
 
