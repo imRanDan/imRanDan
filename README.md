@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dan.imran97@gmail.com**
 
-- ⚡ Fun fact **I used to be a heavy coffee drinker but stopped and swapped to hot chocolate/water/caffeine-free teas. I am also into the gym, hikes, gaming, and mixing music!**
+- ⚡ Fun fact **I'm a big gym rat and also teaching myself how to mix music/DJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
