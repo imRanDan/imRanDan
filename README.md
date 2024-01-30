@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danyal</h1>
-<h3 align="center">A passionate and inquisitive software developer from Canada</h3>
+<h3 align="center">A self-taught career switcher who enjoys combining problem-solving and the creativity of code to create aesthetic and functional websites and applications</h3>
 
 - 🔭 I’m currently working on [mytasklist](https://github.com/imRanDan/mytasklist-2.0)
 
