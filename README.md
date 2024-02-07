@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [mytasklist](https://github.com/imRanDan/mytasklist-2.0)
 
-- 🌱 I’m currently learning **Next.js and roadmap.sh**
+- 🌱 I’m currently learning **Next.js and filling my knowledge gaps on roadmap.sh**
 
 - 👯 I’m looking to collaborate on **any projects related to open-source or hobby-related**
 
