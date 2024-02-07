@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any projects related to open-source or hobby-related**
 
-- 👨‍💻 All of my projects are available at [https://danyalimran.com/](https://danyalimran.com/)
+- 👨‍💻 All of my projects are available here in my repo's or at [https://danyalimran.com/](https://danyalimran.com/)
 
 - 💬 Ask me about **The MERN stack, TypeScript, Next.js, or Javascript**
 
