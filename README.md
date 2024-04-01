@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danyal</h1>
 <h3 align="center">I'm a dev who enjoys the process of building websites and web applications. I mainly work frontend and learn backend to become more full-stack oriented </h3>
 
-- 🌱 I’m currently learning **Next.js and filling my knowledge gaps on roadmap.sh**
+- 🌱 I’m currently building with **Next.js and filling my knowledge gaps on roadmap.sh**
 
 - 👯 I’m looking to collaborate on **any projects related to open-source or hobby-related**
 
