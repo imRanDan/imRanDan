@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Danyal</h1>
-<h3 align="center">I'm a dev who enjoys the process of building websites and web applications. I mainly work frontend and currently learning backend to be more full-stack oriented </h3>
-
-- 🔭 I’m currently working on [mytasklist](https://github.com/imRanDan/mytasklist-2.0)
+<h3 align="center">I'm a dev who enjoys the process of building websites and web applications. I mainly work frontend and learn backend to become more full-stack oriented </h3>
 
 - 🌱 I’m currently learning **Next.js and filling my knowledge gaps on roadmap.sh**
 
 - 👯 I’m looking to collaborate on **any projects related to open-source or hobby-related**
 
-- 👨‍💻 All of my projects are available here in my repo's or at [https://danyalimran.com/](https://danyalimran.com/)
+- 👨‍💻 All of my projects are available here in my repo's
 
 - 💬 Ask me about **The MERN stack, TypeScript, Next.js, or Javascript**
 
 - 📫 How to reach me **dan.imran97@gmail.com**
 
-- ⚡ Fun fact **I'm a big gym rat and also teaching myself how to mix music/DJ**
+- ⚡ Fun fact **I'm a big gym rat and enjoy making playlists and learning to mix music/DJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
