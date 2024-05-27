@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available here in my repo's
 
-- 💬 Ask me about **The MERN stack, TypeScript, Next.js, or Javascript**
+- 💬 Ask me about **The MERN stack, Next.js, or JavaScript**
 
 - 📫 How to reach me **dan.imran97@gmail.com**
 
-- ⚡ Fun fact **I'm a big gym rat and enjoy making playlists and learning to mix music/DJ**
+- ⚡ Fun fact **Outside of coding, I'm a big gym rat and wannabe DJ who is learning the craft**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
