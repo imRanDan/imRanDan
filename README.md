@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danyal</h1>
-<h3 align="center">I'm a software developer who enjoys the process of building.</h3>
+<h3 align="center">I'm a software developer who enjoys all tech-related things.</h3>
 
 - 🌱 I’m currently building with **Next.js and working with LLMs**
 
