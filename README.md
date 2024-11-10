@@ -3,7 +3,7 @@
 I'm a full-stack developer focused on creating impactful, responsive web applications.
 
 🌐 [danyalimran.com](https://danyalimran.com)  
-💼 [LinkedIn](https://www.linkedin.com/danyalimran)  
+💼 [LinkedIn](https://www.linkedin.com/in/danyalimran)  
 📂 [GitHub Repositories](https://github.com/imRanDan?tab=repositories)  
 
 - 🔭 I’m currently working on a variety of web projects
