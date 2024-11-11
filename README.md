@@ -1,4 +1,4 @@
-# Hey there, I'm Danyal 👋
+# Hey there, I'm Danyal.
 
 I'm a full-stack developer focused on creating impactful, responsive web applications.
 
