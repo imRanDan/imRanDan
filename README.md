@@ -129,9 +129,7 @@ I'm a full-stack developer focused on creating impactful, responsive web applica
 
 ## 🚀 Featured Projects
 
-- **[CafeQuest](https://github.com/imRanDan/cafequest)** – A full-stack app for discovering, reviewing, and rating local cafes
-- **[Ghola](https://github.com/imRanDan/ghola)** – Custom language model and conversation app
-- **[Instagram Clone](https://github.com/imRanDan/social-media-app)** - A full-stack clone of instagram where users can register/login and like, create, and comment on posts.
+- **[CafeQuest](https://github.com/imRanDan/cafequest)** – A full-stack app for discovering, reviewing, and rating local cafes!
 
 
 
