@@ -8,7 +8,7 @@ I'm a full-stack developer focused on creating impactful, responsive web applica
 
 - 🔭 I’m currently working on a variety of web and client projects
 - 🌱 I’m currently exploring e-commerce, DeepSeek/LLMs and PostgreSQL
-- ⚡ Outside of coding, I’m at the gym, tracking macros, going on walks, making techno playlists, spending time with my dog, exploring cafes, gaming on Xbox, and reading books.
+- ⚡ Outside of coding, I’m in the gym, tracking macros, going on walks, making techno playlists, exploring cafes, and reading books.
 
 # 🔧 Technologies & Tools
 
