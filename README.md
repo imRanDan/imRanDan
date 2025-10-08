@@ -1,6 +1,6 @@
-# Hey there, I'm Danyal.
+# Hey there, I'm Danyal!
 
-I'm a full-stack developer focused on creating impactful, responsive web applications.
+I'm a frontend-leaning full stack developer who is focused on creating impactful, responsive web applications.
 
 🌐 [danyalimran.com](https://danyalimran.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/danyalimran)  
