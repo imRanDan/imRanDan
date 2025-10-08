@@ -6,9 +6,9 @@ I'm a full-stack developer focused on creating impactful, responsive web applica
 💼 [LinkedIn](https://www.linkedin.com/in/danyalimran)  
 📂 [GitHub Repositories](https://github.com/imRanDan?tab=repositories)  
 
-- 🔭 I’m currently in between client projects and looking for new roles.
-- 🌱 I’m currently exploring agentic AI, Go, and automation
-- ⚡ Outside of coding, I’m in the gym, tracking macros, going on walks, making techno playlists, exploring cafes, and reading books.
+- 🔭 I’m currently looking for new roles.
+- 🌱 I’m currently exploring backend architecture, agentic AI, and algorithms/data structures.
+- ⚡ Outside of coding, I’m in the gym, tracking macros, going on walks, making spotify playlists and curations, exploring cafes, and reading books.
 
 # 🔧 Technologies & Tools
 
