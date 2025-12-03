@@ -1,14 +1,14 @@
 # Hey there, I'm Danyal!
 
-I'm a full stack software developer who is focused on creating impactful, responsive web applications.
+I'm a full-stack developer building performant web applications with React, Next.js, Go, and PostgreSQL.
 
 🌐 [danyalimran.com](https://danyalimran.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/danyalimran)  
-📂 [GitHub Repositories](https://github.com/imRanDan?tab=repositories)  
+🐦 [X/Twitter](https://x.com/TheRanDan)
 
-- 🔭 I’m currently looking for new roles.
-- 🌱 I’m currently exploring backend architecture, agentic AI, and algorithms/data structures.
-- ⚡ Outside of coding, I’m in the gym, tracking macros, going on walks, making spotify playlists and curations, exploring cafes, and reading books.
+- 🔭 Currently seeking full-stack or frontend roles in Toronto or remote Canada
+- 🌱 Exploring backend architecture, agentic AI workflows, and system design
+- ⚡ When I'm not coding: gym, cafes, Spotify playlists, books
 
 # 🔧 Technologies & Tools
 
@@ -72,6 +72,33 @@ I'm a full stack software developer who is focused on creating impactful, respon
   <tr>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+        width="48"
+        height="48"
+        alt="Go"
+      />
+      <br /><strong>Go</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         width="48"
         height="48"
@@ -88,6 +115,17 @@ I'm a full stack software developer who is focused on creating impactful, respon
       />
       <br /><strong>Tailwind CSS</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -115,23 +153,13 @@ I'm a full stack software developer who is focused on creating impactful, respon
       />
       <br /><strong>JavaScript</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
   </tr>
 </table>
 
 ## 🚀 Featured Projects
 
-- **[CafeQuest](https://github.com/imRanDan/cafequest)** – A full-stack app for discovering, reviewing, and rating local cafes!
+- **[CafeQuest](https://github.com/imRanDan/cafequest)** – Location-based cafe discovery app with real-time search, user auth, and favorites. React + Next.js + Firebase + Mapbox. 97+ Lighthouse score.
 
+- **[Creator Growth Tool](https://github.com/imRanDan/creator-growth-api)** – Full-stack Instagram analytics platform analyzing 10,000+ posts with AI-powered recommendations. Go + PostgreSQL + React + OAuth 2.0.
 
-
-
-
+- **[CLU](https://github.com/imRanDan/clu)** – AI test generation CLI using Claude API. Autonomous framework detection across 14 languages. Python + Agentic workflows.
