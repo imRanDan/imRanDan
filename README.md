@@ -1,6 +1,6 @@
 # Hey there, I'm Danyal!
 
-I'm a full-stack developer building performant web applications with React, Next.js, Go, and PostgreSQL.
+I'm a front-end developer building user-focused web products and cool apps with React, Next.js, JavaScript, and Typescript!
 
 🌐 [danyalimran.com](https://danyalimran.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/danyalimran)  
