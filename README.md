@@ -6,9 +6,9 @@ I'm a full-stack developer building performant web applications with React, Next
 💼 [LinkedIn](https://www.linkedin.com/in/danyalimran)  
 🐦 [X/Twitter](https://x.com/TheRanDan)
 
-- 🔭 Currently seeking full-stack or frontend roles in Toronto or remote Canada
-- 🌱 Exploring backend architecture, agentic AI workflows, and system design
-- ⚡ When I'm not coding: gym, cafes, Spotify playlists, books
+- 🔭 Currently seeking frontend roles in Toronto or remote Canada
+- 🌱 Exploring system design
+- ⚡ When I'm not coding: gym, cafes, music playlists, books
 
 # 🔧 Technologies & Tools
 
