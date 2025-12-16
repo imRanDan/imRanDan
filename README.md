@@ -1,165 +1,114 @@
-# Hey there, I'm Danyal!
+# Hey, I'm Danyal 👋
 
-I'm a front-end developer building user-focused web products and cool apps with React, Next.js, JavaScript, and Typescript!
+I'm a **Frontend Developer** building user-focused web products and clean, performant interfaces with **React, Next.js, and TypeScript**.
 
 🌐 [danyalimran.com](https://danyalimran.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/danyalimran)  
-🐦 [X/Twitter](https://x.com/TheRanDan)
+🐦 [X / Twitter](https://x.com/TheRanDan)
 
-- 🔭 Currently seeking frontend roles in Toronto or remote Canada
-- 🌱 Exploring system design
-- ⚡ When I'm not coding: gym, cafes, music playlists, books
+- 🔭 Open to **frontend roles** in Toronto or remote across Canada  
+- 🌱 Exploring system design and frontend architecture  
+- ⚡ Outside of coding: gym sessions, cafés, music playlists, and books  
 
-# 🔧 Technologies & Tools
+---
 
+## 🔧 Technologies & Tools
+
+### Frontend
 <table>
   <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
       <br /><strong>React</strong>
-    </td>    
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next.js"
-      />
+    </td>
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" />
       <br /><strong>Next.js</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-        width="48"
-        height="48"
-        alt="TypeScript"
-      />
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" />
       <br /><strong>TypeScript</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Node.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express"
-      />
-      <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br /><strong>Firebase</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-        width="48"
-        height="48"
-        alt="Go"
-      />
-      <br /><strong>Go</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="48"
-        height="48"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-        width="48"
-        height="48"
-        alt="Tailwind CSS"
-      />
-      <br /><strong>Tailwind CSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        width="48"
-        height="48"
-        alt="HTML5"
-      />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
       <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" />
+      <br /><strong>Tailwind CSS</strong>
     </td>
   </tr>
 </table>
 
+### Backend & Services (supporting)
+<table>
+  <tr>
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" />
+      <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" />
+      <br /><strong>Go</strong>
+    </td>
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
+      <br /><strong>Python</strong>
+    </td>
+  </tr>
+</table>
+
+### Databases & Tooling
+<table>
+  <tr>
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" />
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" />
+      <br /><strong>CSS3</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Featured Projects
 
-- **[CafeQuest](https://github.com/imRanDan/cafequest)** – Location-based cafe discovery app with real-time search, user auth, and favorites. React + Next.js + Firebase + Mapbox. 97+ Lighthouse score.
+### **[CafeQuest](https://github.com/imRanDan/cafequest)**
+Location-based café discovery app with real-time search, interactive maps, user authentication, and favorites.  
+Built with **React, Next.js, TypeScript, Mapbox, and Firebase**.  
+Achieved **97+ Lighthouse scores** with sub-second LCP.
 
-- **[Creator Growth Tool](https://github.com/imRanDan/creator-growth-api)** – Full-stack Instagram analytics platform analyzing 10,000+ posts with AI-powered recommendations. Go + PostgreSQL + React + OAuth 2.0.
+---
 
-- **[CLU](https://github.com/imRanDan/clu)** – AI test generation CLI using Claude API. Autonomous framework detection across 14 languages. Python + Agentic workflows.
+### **[Creator Growth Tool](https://github.com/imRanDan/creator-growth-api)**
+Instagram analytics **dashboard** analyzing **10,000+ posts**, featuring AI-powered growth insights and content suggestions.  
+Frontend built with **React, Next.js, and TypeScript**, backed by **Go, PostgreSQL, and OAuth 2.0**.
+
+---
+
+### **[Scout](https://github.com/imRanDan/scout)**
+AI-powered local discovery agent that returns curated cafés, restaurants, and venues from natural language prompts.  
+Built with **Next.js, TypeScript, Tailwind CSS, and the OpenAI API**, optimized for a fast, mobile-first UX.
