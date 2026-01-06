@@ -6,7 +6,7 @@ I'm a **Frontend Developer** building user-focused web products and clean, perfo
 💼 [LinkedIn](https://www.linkedin.com/in/danyalimran)  
 🐦 [X / Twitter](https://x.com/TheRanDan)
 
-- 🔭 Open to **frontend roles** in Toronto or remote across Canada  
+- 🔭 Open to **frontend roles** in Toronto or remote across Canada, The United States, or Europe
 - 🌱 Exploring system design and frontend architecture  
 - ⚡ Outside of coding: gym sessions, cafés, music playlists, and books  
 
