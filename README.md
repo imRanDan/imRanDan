@@ -8,7 +8,7 @@ I'm a **Frontend Developer** building user-focused web products and clean, perfo
 
 - 🔭 Open to **frontend roles** in Toronto or remote across Canada, The United States, or Europe
 - 🌱 Exploring system design and frontend architecture  
-- ⚡ Outside of coding: gym sessions, cafés, music playlists, and books  
+- ⚡ Outside of coding: improving at chess, gym sessions, cafés, music playlists, and books  
 
 ---
 
